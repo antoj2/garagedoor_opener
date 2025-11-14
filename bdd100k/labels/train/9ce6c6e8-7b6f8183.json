@@ -1,0 +1,127 @@
+{
+    "name": "9ce6c6e8-7b6f8183",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "traffic sign",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 501.41918,
+                        "y1": 22.27498,
+                        "x2": 531.794162,
+                        "y2": 57.712455
+                    }
+                },
+                {
+                    "category": "traffic sign",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 548.669149,
+                        "y1": 0,
+                        "x2": 611.106607,
+                        "y2": 23.962479
+                    }
+                },
+                {
+                    "category": "person",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 646.544082,
+                        "y1": 307.462284,
+                        "x2": 724.169028,
+                        "y2": 467.774673
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 0,
+                        "y1": 320.962274,
+                        "x2": 708.981539,
+                        "y2": 550.462116
+                    }
+                },
+                {
+                    "category": "area/drivable",
+                    "id": 4,
+                    "attributes": {},
+                    "poly2d": [
+                        [
+                            1163.958335,
+                            491.885921,
+                            "L"
+                        ],
+                        [
+                            790.821141,
+                            516.454625,
+                            "L"
+                        ],
+                        [
+                            786.214509,
+                            531.810065,
+                            "L"
+                        ],
+                        [
+                            1176.242687,
+                            559.449858,
+                            "L"
+                        ],
+                        [
+                            1163.958335,
+                            491.885921,
+                            "L"
+                        ]
+                    ]
+                },
+                {
+                    "category": "lane/road curb",
+                    "id": 5,
+                    "attributes": {
+                        "direction": "parallel",
+                        "style": "solid"
+                    },
+                    "poly2d": [
+                        [
+                            1159.351703,
+                            485.231906,
+                            "L"
+                        ],
+                        [
+                            780.157898,
+                            520.531582,
+                            "L"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "overcast",
+        "scene": "residential",
+        "timeofday": "daytime"
+    }
+}

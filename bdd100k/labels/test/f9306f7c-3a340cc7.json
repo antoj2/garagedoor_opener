@@ -1,0 +1,95 @@
+{
+    "name": "f9306f7c-3a340cc7",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "rider",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 152.225993,
+                        "y1": 461.668996,
+                        "x2": 184.667598,
+                        "y2": 507.835895
+                    }
+                },
+                {
+                    "category": "motor",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 152.225993,
+                        "y1": 480.385306,
+                        "x2": 182.17209,
+                        "y2": 522.808944
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 291.974446,
+                        "y1": 459.173488,
+                        "x2": 401.776802,
+                        "y2": 501.597125
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 411.758834,
+                        "y1": 455.430226,
+                        "x2": 452.934718,
+                        "y2": 481.633059
+                    }
+                },
+                {
+                    "category": "lane/crosswalk",
+                    "id": 4,
+                    "attributes": {
+                        "direction": "vertical",
+                        "style": "dashed"
+                    },
+                    "poly2d": [
+                        [
+                            182.745715,
+                            597.326618,
+                            "L"
+                        ],
+                        [
+                            0,
+                            595.791074,
+                            "L"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "clear",
+        "scene": "city street",
+        "timeofday": "night"
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "name": "f108a082-9ae0b716",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "person",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 1084.049621,
+                        "y1": 275.399904,
+                        "x2": 1204.199578,
+                        "y2": 487.349828
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 865.349697,
+                        "y1": 322.649887,
+                        "x2": 1023.299642,
+                        "y2": 425.249851
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 143.09995,
+                        "y1": 136.349952,
+                        "x2": 926.099676,
+                        "y2": 718.199749
+                    }
+                },
+                {
+                    "category": "person",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 1214.744201,
+                        "y1": 322.294739,
+                        "x2": 1277.412623,
+                        "y2": 461.700002
+                    }
+                },
+                {
+                    "category": "lane/crosswalk",
+                    "id": 4,
+                    "attributes": {
+                        "direction": "vertical",
+                        "style": "dashed"
+                    },
+                    "poly2d": [
+                        [
+                            997.973086,
+                            430.556957,
+                            "L"
+                        ],
+                        [
+                            1032.937108,
+                            445.541538,
+                            "L"
+                        ]
+                    ]
+                },
+                {
+                    "category": "lane/crosswalk",
+                    "id": 5,
+                    "attributes": {
+                        "direction": "vertical",
+                        "style": "dashed"
+                    },
+                    "poly2d": [
+                        [
+                            997.973086,
+                            438.548733,
+                            "L"
+                        ],
+                        [
+                            1012.957667,
+                            447.539482,
+                            "L"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "clear",
+        "scene": "city street",
+        "timeofday": "night"
+    }
+}

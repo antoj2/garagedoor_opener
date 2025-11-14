@@ -1,0 +1,232 @@
+{
+    "name": "41eba0ad-2c923dbb",
+    "frames": [
+        {
+            "timestamp": 10000,
+            "objects": [
+                {
+                    "category": "car",
+                    "id": 0,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 0.997946,
+                        "y1": 311.512286,
+                        "x2": 528.911501,
+                        "y2": 642.67737
+                    }
+                },
+                {
+                    "category": "truck",
+                    "id": 1,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": true,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 0,
+                        "y1": 196.762365,
+                        "x2": 227.531741,
+                        "y2": 347.285287
+                    }
+                },
+                {
+                    "category": "truck",
+                    "id": 2,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 486.997759,
+                        "y1": 242.500932,
+                        "x2": 703.919042,
+                        "y2": 426.262209
+                    }
+                },
+                {
+                    "category": "truck",
+                    "id": 3,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 755.445294,
+                        "y1": 256.472181,
+                        "x2": 883.18241,
+                        "y2": 382.213406
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 4,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 423.1292,
+                        "y1": 350.279126,
+                        "x2": 498.973113,
+                        "y2": 399.17849
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 5,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 675.609595,
+                        "y1": 326.328416,
+                        "x2": 879.190627,
+                        "y2": 486.997759
+                    }
+                },
+                {
+                    "category": "traffic sign",
+                    "id": 6,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 706.545928,
+                        "y1": 317.346901,
+                        "x2": 734.488423,
+                        "y2": 325.330471
+                    }
+                },
+                {
+                    "category": "traffic light",
+                    "id": 7,
+                    "attributes": {
+                        "occluded": false,
+                        "truncated": false,
+                        "trafficLightColor": "green"
+                    },
+                    "box2d": {
+                        "x1": 899.14955,
+                        "y1": 329.322255,
+                        "x2": 905.137226,
+                        "y2": 349.281179
+                    }
+                },
+                {
+                    "category": "car",
+                    "id": 8,
+                    "attributes": {
+                        "occluded": true,
+                        "truncated": false,
+                        "trafficLightColor": "none"
+                    },
+                    "box2d": {
+                        "x1": 882.184464,
+                        "y1": 351.277072,
+                        "x2": 919.108474,
+                        "y2": 380.217512
+                    }
+                },
+                {
+                    "category": "area/drivable",
+                    "id": 9,
+                    "attributes": {},
+                    "poly2d": [
+                        [
+                            664.906533,
+                            488.302995,
+                            "L"
+                        ],
+                        [
+                            1028.830461,
+                            491.374082,
+                            "L"
+                        ],
+                        [
+                            1272.981959,
+                            664.890555,
+                            "L"
+                        ],
+                        [
+                            1024.22383,
+                            635.715218,
+                            "C"
+                        ],
+                        [
+                            744.754821,
+                            608.075425,
+                            "C"
+                        ],
+                        [
+                            454.537003,
+                            628.037498,
+                            "C"
+                        ],
+                        [
+                            664.906533,
+                            488.302995,
+                            "L"
+                        ]
+                    ]
+                },
+                {
+                    "category": "lane/single white",
+                    "id": 10,
+                    "attributes": {
+                        "direction": "parallel",
+                        "style": "dashed"
+                    },
+                    "poly2d": [
+                        [
+                            673.170431,
+                            461.278269,
+                            "L"
+                        ],
+                        [
+                            470.343186,
+                            625.891194,
+                            "L"
+                        ]
+                    ]
+                },
+                {
+                    "category": "lane/single white",
+                    "id": 11,
+                    "attributes": {
+                        "direction": "parallel",
+                        "style": "dashed"
+                    },
+                    "poly2d": [
+                        [
+                            678.06964,
+                            474.016174,
+                            "L"
+                        ],
+                        [
+                            487.000496,
+                            626.871033,
+                            "L"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "attributes": {
+        "weather": "clear",
+        "scene": "city street",
+        "timeofday": "daytime"
+    }
+}
